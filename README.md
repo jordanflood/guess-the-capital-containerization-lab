@@ -1,8 +1,6 @@
-# coding-project-template
+# IBM Containerized Quiz App
 
-# IBM Containerized Quiz Application
-
-A simple static quiz web application containerized using Docker and served with Nginx.
+A simple static web application containerized using Docker and served with Nginx.
 
 This project was completed as part of my IBM cloud/containerization coursework and added to my portfolio as evidence of hands-on practice with Docker, containers, and basic cloud-native application workflows.
 
